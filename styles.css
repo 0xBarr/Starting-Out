@@ -1,11 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
 body{
     background-color: hsl(217, 54%, 11%);
-    @font-face {
-        font-family: 'Outfit';
-        src: url(https://fonts.google.com/specimen/Outfit);
-    }
-
+    font-family: 'Outfit', sans-serif;
 }
+
 .first{
     background-color: hsla(218, 54%, 11%, 0.87);
     width: 330px;
@@ -113,4 +112,4 @@ a.author{
 }
 
 .attribution { font-size: 11px; text-align: center; margin-top: 100px;}
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(140, 64%, 52%); }
